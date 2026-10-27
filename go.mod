@@ -2,6 +2,8 @@ module github.com/crossplane-contrib/function-extra-resources
 
 go 1.25.0
 
+toolchain go1.26.10
+
 require (
 	github.com/alecthomas/kong v1.14.0
 	github.com/crossplane/crossplane-runtime/v2 v2.2.0
